@@ -1,4 +1,4 @@
 WRTnode-PCB
 ===========
 
-The hardware project of WRTnode
+The hardware project of WRTnode Boards
